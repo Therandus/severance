@@ -1,0 +1,9 @@
+#gameOutput {
+	height: 400px;
+	overflow-y: scroll;
+	
+	margin: 4px;
+	padding: 4px;
+	border: 8px solid mistyrose;
+	white-space: pre;
+}
